@@ -1,0 +1,1 @@
+python run_sft.py --dataset /mnt/code/laixinyi/CMRC_RL/dataset/CoQAR/data/train/new_coqar_train.json
